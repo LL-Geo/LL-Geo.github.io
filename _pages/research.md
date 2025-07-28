@@ -12,4 +12,4 @@ redirect_from:
 
 * To be update
 
-<img src="../images/mag.JPG" alt="Mag" width="800"/>
+<img src="../images/mag.jpg" alt="Mag" width="800"/>
